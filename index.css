@@ -1,0 +1,13 @@
+
+.container {
+    padding:5px;
+}
+.row {
+    padding: 20px;
+    border: solid;
+}
+td {
+    border: solid;
+    margin-left: 10%;
+} 
+
