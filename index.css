@@ -1,13 +1,19 @@
 
-.container {
-    padding:5px;
-}
 .row {
     padding: 20px;
-    border: solid;
+    border: none;
 }
 td {
-    border: solid;
-    margin-left: 10%;
+    border: none;
+    margin-left: 5%;
+    padding: 10px;
 } 
+footer {
+    background-color: black;
+    bottom: 0%;
+    height: 30%;
+}
+h5 {
+    color: ghostwhite;
+}
 

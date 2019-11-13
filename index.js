@@ -19,10 +19,10 @@ function makeList() {
       followers.forEach(data => {
         const td = document.createElement("td");
         const img = document.createElement("img");
-        const holder = document.createElement ("div");
+
 
         img.setAttribute("src", data.avatar_url);
-div.classname = "col-md-4"
+
 
         img.setAttribute("width", 300);
         td.appendChild(img);
